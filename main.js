@@ -1,16 +1,18 @@
 import customers from './customers.js'
-let newCustomer = document.querySelector('#name-list')
 
-console.log()
 
-let newPerson = document.createElement("li")
-let personName = document.createTextNode("Mr. Curtis Ryan")
+// let newCustomer = document.querySelector('#name-list')
 
-let personNumber = document.createTextNode(" ")
-let personAddress = document.createTextNode("")
-let thumbNail = document.createTextNode(" ")
-let personBirthday = document.createTextNode("")
-let personSince = document.createTextNode("")
+// console.log()
+
+// let newPerson = document.createElement("li")
+// let personName = document.createTextNode("Mr. Curtis Ryan")
+
+// let personNumber = document.createTextNode(" ")
+// let personAddress = document.createTextNode("")
+// let thumbNail = document.createTextNode(" ")
+// let personBirthday = document.createTextNode("")
+// let personSince = document.createTextNode("")
 
 
 
